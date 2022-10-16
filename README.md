@@ -1,4 +1,4 @@
-# photo-contrast-and-britghtness-edition
+# photo-contrast-and-britghtness-editor
 + ## Overview
 implementing a wep page which decrease brightness, increase contrast, decrease contrast and 
 inverse functions (negative of an image) that will be applied on a grayscale image. 
